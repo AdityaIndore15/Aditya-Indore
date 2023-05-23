@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Indore</h1>
 <h3 align="center">I'm a passionate data scientist with a focus on machine learning and natural language processing.I'm working on various projects and exploring the fascinating intersection of data . I'm constantly learning and experimenting to enhance my skills .</h3>
 
-- 📫 How to reach me **aditya1562000@gmail.com**
+- 📫 Reach  me at **aditya1562000@gmail.com**
 
 </p>
 
